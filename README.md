@@ -1,5 +1,6 @@
-![Texto Alternativo](github-header-banner (1).png)
-
+<div align="center">
+  <img src="banner.png" alt="Banner da Malu" width="100%">
+  
 ###
 
 <h1 align="center">Hi! 👩🏾‍💻</h1>
