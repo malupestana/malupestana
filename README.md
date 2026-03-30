@@ -1,33 +1,54 @@
-# Olá, eu sou a Malu! 👋
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=146&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
-Desenvolvedora focada em **Back-end**, movida pela lógica e pela construção de sistemas eficientes. Atualmente, concentro meus estudos em arquitetura de sistemas, banco de dados e infraestrutura moderna.
+###
 
----
+<h1 align="center">Hi! 👩🏾‍💻</h1>
 
-### 🛠️ Minhas Stacks & Ferramentas
+###
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **Back-end & Lógica** | ![POO](https://img.shields.io/badge/OOP-Object--Oriented-blue?style=flat-square) ![Data Structures](https://img.shields.io/badge/Data_Structures-Data--Driven-orange?style=flat-square) |
-| **Banco de Dados** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SGBD](https://img.shields.io/badge/SGBD-Database--Design-lightgrey?style=flat-square) |
-| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
-| **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+<p align="left">Passionate about Back-end development and software architecture. Experienced in C++, OOP, and Docker. Currently focusing on database management and data analysis projects. Always looking for clean code and scalable solutions.</p>
 
+###
 
+<h2 align="left">I code with 🛠️</h2>
 
-### 📊 Estatísticas do GitHub
-
-![Estatísticas da Malu](https://github-readme-stats.vercel.app/api?username=malupestana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=malupestana&layout=compact&theme=dracula)
-
----
-
-📫 **Como me encontrar:**
-[LinkedIn](https://www.linkedin.com/in/maria-luiza-pestana-2375b5336/) 
-
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malupestana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malupestana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
+
+###
+
+<h3 align="left">Find me 🔍</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/maria-luiza-pestana-2375b5336/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:pestanamaria099@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/malupestana/malupestana/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/malupestana/malupestana/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/malupestana/malupestana/output/pacman-contribution-graph.svg">
+</picture>
+
+###
