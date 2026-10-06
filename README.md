@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="banner2.png" alt="Banner da Malu" width="100%">
   
 ###
 
@@ -7,7 +6,10 @@
 
 ###
 
-<p align="left">Sou graduanda em Sistemas de Informação e desenvolvedora em formação, com forte direcionamento para o desenvolvimento back-end e integração de dados. Possuo prática na construção de lógicas com Python, Java e C++,<br>aliados à manipulação de dados com Pandas e SQL.</p>
+<p align="left">
+Sou graduanda em Sistemas de Informação e atuo na interseção entre Tecnologia e Negócios. Possuo uma base técnica sólida em desenvolvimento back-end e dados (Python, Java, C++, SQL), e utilizo esse conhecimento estrutural para otimizar Processos e impulsionar estratégias de Produto (PM/PMM).<br>
+Meu foco é traduzir capacidades complexas de engenharia em eficiência operacional e propostas de valor claras para o mercado.
+</p>
 
 ###
 
